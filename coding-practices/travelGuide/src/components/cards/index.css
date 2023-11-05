@@ -1,0 +1,12 @@
+.background {
+  background-color: #eef4f7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.order {
+  list-style-type: none;
+  flex-wrap: wrap;
+  display: flex;
+}

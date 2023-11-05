@@ -1,0 +1,23 @@
+.background {
+  background-color: #000000;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #ffffff;
+}
+.bt1 {
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  padding-right: 10px;
+}
+.bt2 {
+  background-color: transparent;
+  color: white;
+  border-radius: 10px;
+}

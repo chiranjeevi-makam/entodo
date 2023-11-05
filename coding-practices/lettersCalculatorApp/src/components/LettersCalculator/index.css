@@ -1,0 +1,18 @@
+.background {
+  background-image: linear-gradient(to left, #1d976c, #93f9b9);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.number {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  width: 200px;
+}

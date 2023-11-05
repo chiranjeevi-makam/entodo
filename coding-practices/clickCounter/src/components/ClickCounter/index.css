@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.background {
+  background-color: #f1f5f8;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #2d3a35;
+}
+.button1 {
+  background-color: #007bff;
+  color: white;
+}
+.spa {
+  color: #c20a72;
+}

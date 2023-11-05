@@ -1,0 +1,37 @@
+.background {
+  background-image: linear-gradient(to left, #ffeeee, #ffc0bb);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 600px;
+  border-radius: 10px;
+}
+.unorder {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+}
+.bt {
+  border: none;
+  background-color: #ffffff;
+}
+.final {
+  background-color: #ffffff;
+  margin: 5px;
+  text-align: center;
+  width: 100px;
+}
+.photo {
+  width: 100%;
+}

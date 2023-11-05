@@ -1,0 +1,28 @@
+.background {
+  background-color: #ffd569;
+  background-size: cover;
+
+  padding: 20px;
+}
+.card {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 80vh;
+}
+.count {
+  color: #ffd569;
+}
+.fruit {
+  display: flex;
+  justify-content: space-around;
+}
+.photo {
+  width: 300px;
+}
+.bt {
+  background-color: #007bff;
+  color: #ffffff;
+}

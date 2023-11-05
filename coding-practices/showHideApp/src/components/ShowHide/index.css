@@ -1,0 +1,31 @@
+.background {
+  background-image: linear-gradient(to left, #fa7257, #fc63a7);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: white;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+}
+.small {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  margin: 2px;
+}
+.bt {
+  color: #dd1264;
+  background-color: white;
+  border-radius: 10px;
+  margin: 2px;
+}

@@ -1,0 +1,20 @@
+.playlist {
+  display: flex;
+  justify-content: space-between;
+}
+.imagename {
+  display: flex;
+}
+.time {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bt {
+  background-color: transparent;
+  border: none;
+}
+.listsize {
+  width: 30%;
+  margin: 10px;
+}

@@ -1,0 +1,13 @@
+.background {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 20px;
+}
+.arrange {
+  display: flex;
+  justify-content: space-between;
+}

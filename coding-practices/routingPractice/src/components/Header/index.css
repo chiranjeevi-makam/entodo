@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.order {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+}
+.p {
+  margin: 1px;
+}

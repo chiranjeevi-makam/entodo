@@ -1,0 +1,9 @@
+.background {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff, #0f172a);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

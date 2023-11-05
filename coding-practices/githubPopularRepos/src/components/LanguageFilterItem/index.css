@@ -1,0 +1,10 @@
+.list {
+  margin: 10px;
+}
+
+.bt {
+  background-color: transparent;
+  border: 1px solid blue;
+  margin: 10px;
+  border-radius: 10px;
+}

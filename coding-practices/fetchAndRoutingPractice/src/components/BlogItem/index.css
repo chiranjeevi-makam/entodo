@@ -1,0 +1,30 @@
+.itemContainer {
+  display: flex;
+  border: 5px solid #d3d3d3;
+  flex-direction: row;
+  margin: 2px;
+  padding: 10px;
+  text-decoration: none;
+}
+.photosize {
+  width: 50%;
+}
+.avatar {
+  height: 40px;
+  width: 40px;
+  border-radius: 100px;
+}
+.ItemDetails {
+  padding-left: 10px;
+}
+.main {
+  color: #000000;
+  text-decoration: none;
+}
+.para {
+  color: #2f4f4f;
+  text-decoration: none;
+}
+.name {
+  display: flex;
+}

@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.background {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#b5b9ff, #2b2c49);
+  background-size: cover;
+  padding: 20px;
+  border-radius: 10px;
+  height: 400px;
+  width: 600px;
+}
+.head {
+  color: white;
+}

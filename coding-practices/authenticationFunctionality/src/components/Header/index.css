@@ -1,0 +1,10 @@
+.order {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.name {
+  margin: 5px;
+}

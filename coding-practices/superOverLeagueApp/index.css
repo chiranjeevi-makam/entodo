@@ -1,0 +1,13 @@
+.background {
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #ffffff;
+}
+.image {
+  display: flex;
+}

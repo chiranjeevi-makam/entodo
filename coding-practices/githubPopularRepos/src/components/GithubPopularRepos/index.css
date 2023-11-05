@@ -1,0 +1,14 @@
+.structure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #000000;
+  font-family: Lobster;
+}
+.names {
+  display: flex;
+  list-style-type: none;
+}

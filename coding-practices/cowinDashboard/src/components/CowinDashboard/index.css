@@ -1,0 +1,20 @@
+.structure {
+  background-color: #161625;
+  background-size: cover;
+
+  padding: 15px;
+}
+.logo {
+  display: flex;
+}
+
+.logosize {
+  width: 40px;
+  margin: 5px;
+}
+.head {
+  color: #2cc6c6;
+}
+.para {
+  color: white;
+}
